@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722936006845",
+    "project_id": "hksc-36aaf",
+    "storage_bucket": "hksc-36aaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722936006845:android:ed84db99ce6f3ccd8b8fd4",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRBt5QlbEbeAZYn5aYWRTvSNgN6LUGkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
